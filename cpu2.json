@@ -1,0 +1,90 @@
+[
+	{
+		"model": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz   2.60 GHz",
+		"speed": 1100,
+		"times": {
+			"user": 5830540,
+			"nice": 0,
+			"sys": 32998580,
+			"idle": 263909560,
+			"irq": 0
+		}
+	},
+	{
+		"model": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz   2.60 GHz",
+		"speed": 1100,
+		"times": {
+			"user": 2950050,
+			"nice": 0,
+			"sys": 3361690,
+			"idle": 300357310,
+			"irq": 0
+		}
+	},
+	{
+		"model": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz   2.60 GHz",
+		"speed": 1100,
+		"times": {
+			"user": 24926210,
+			"nice": 0,
+			"sys": 23326500,
+			"idle": 229416720,
+			"irq": 0
+		}
+	},
+	{
+		"model": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz   2.60 GHz",
+		"speed": 1100,
+		"times": {
+			"user": 3589990,
+			"nice": 0,
+			"sys": 2984550,
+			"idle": 300964400,
+			"irq": 0
+		}
+	},
+	{
+		"model": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz   2.60 GHz",
+		"speed": 1100,
+		"times": {
+			"user": 46925640,
+			"nice": 0,
+			"sys": 18520360,
+			"idle": 241223310,
+			"irq": 0
+		}
+	},
+	{
+		"model": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz   2.60 GHz",
+		"speed": 1100,
+		"times": {
+			"user": 2895800,
+			"nice": 0,
+			"sys": 2983520,
+			"idle": 300789490,
+			"irq": 0
+		}
+	},
+	{
+		"model": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz   2.60 GHz",
+		"speed": 1100,
+		"times": {
+			"user": 25446180,
+			"nice": 0,
+			"sys": 15522680,
+			"idle": 251300310,
+			"irq": 0
+		}
+	},
+	{
+		"model": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz   2.60 GHz",
+		"speed": 1100,
+		"times": {
+			"user": 5836820,
+			"nice": 0,
+			"sys": 2900430,
+			"idle": 300721430,
+			"irq": 0
+		}
+	}
+]
